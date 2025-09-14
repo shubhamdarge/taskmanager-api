@@ -82,3 +82,6 @@ Temporary Items
 
 # Ensure nested .DS_Store files are ignored
 **/.DS_Store
+
+# env files
+.env
